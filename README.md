@@ -1,5 +1,8 @@
-English | 
-[한국어](https://github.com/zzossig/hugo-theme-zzo/blob/master/README.ko.md)
+Pagina pessoal de Hygor Hernane
+
+Github page com o tema Hugo-zzo
+
+
 
 ## Hugo Theme Zzo
 

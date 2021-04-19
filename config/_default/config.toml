@@ -1,18 +1,18 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "https://hygorhernane.github.io"
+title = "Blog do Hernane"
 theme = "zzo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
-summaryLength = 70
+summaryLength = 50
 buildFuture = true
 
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
-paginate = 13
+paginate = 20
 rssLimit = 100
 
 enableGitInfo = false
