@@ -1,0 +1,26 @@
+---
+layout: post
+title: Starting
+subtitle: the plan for this blog
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [plans]
+comments: true
+---
+
+After much delay and lots of shenanigans I'm finaly starting this. So, the basics:
+
+Why?
+
+What?
+
+How?
+
+I'm starting this basically to help myself organize my toughts, my projects and in some part my life. I like to set schedules and projects, but i do think i only do that in some shalow or not-optimized way. I'm hoping with this blog, as a place that i publicy organize my posts, works and day-to-day I can be able to be more diligent and goal-oriented.
+Another reason im doing this is to help me practice my english and the other languages im trying to learn (currently spanish). I think I'll post the blog, the daily posts or something like that in english and will work on translating the articles and other stuff I put in here to other languages I know. I do hope to be able to write some techinical articles and reviews in here, and they are easier and more "static" to translate.
+
+My plan is to build a series of articles that could be used to review a subject, get deeper knowledge of it or even start from scratch.
+
+My plan is to post at least twice a week. One of those post I was thinking about stealing something that a blog from Red Hat do that is post a weekly "best of the week" or something like that.
+Other would be a "log update" or something like that. Not sure if I'm doing a continum file changelog or another type. Still thinking. Going to try and see for now. 
+
