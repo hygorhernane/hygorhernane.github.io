@@ -8,14 +8,25 @@ series: ["Starting"]
 series_order: 1
 ---
 
-## A sub-title
+### perguntas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh nisl, vulputate eu lacus vitae, maximus molestie libero. Vestibulum laoreet, odio et sollicitudin sollicitudin, quam ligula tempus urna, sed sagittis eros eros ac felis. In tristique tortor vitae lacinia commodo. Mauris venenatis ultrices purus nec fermentum. Nunc sit amet aliquet metus. Morbi nisl felis, gravida ac consequat vitae, blandit eu libero. Curabitur porta est in dui elementum porttitor. Maecenas fermentum, tortor ac feugiat fringilla, orci sem sagittis massa, a congue risus ipsum vel massa. Aliquam sit amet nunc vulputate, facilisis neque in, faucibus nisl.
+- Por que escrever um blog? 
 
+Iniciando o projeto de ter um blog, escrever artigos, fazer um brain-dump das varias coisas que eu vejo, leio e estudo no meu dia a dia e com isso me auto-ajudar a organizar tudo. Embora seja contra intuitivo em vários sentidos, sinto que focar em habilidades e recursos basicos como escrever e "pensar" é algo que me faz falta. Esta propria frase que eu acabei de escrever. Eu releio ela após escrever e sinto que não está escrita ou expressa da melhor forma. É o que eu quero dizer, mas é dito de uma forma que eu sinto que não passa a clareza e transparencia de pensamento que eu tenho. 
 
-Iniciando o projeto de ter um blog, escrever artigos, fazer um brain-dump das varias coisas que eu leio e estudo no meu dia a dia e me ajudar a organizar melhor as coisas. Embora seja contra intuitivo em vários sentidos, sinto que focar em habilidades e recursos basicos como escrever e "pensar" é algo que me faz falta. Eu escrevo, analiso, crio materiais e ideias abaixo do que eu gostaria e sinto que poderia. 
+Eu sinto que escrevo, analiso, crio materiais e ideias abaixo do que eu gostaria e sinto que poderia. Abaixo do nível profissional que eu preciso em várias situações.  
 
-Fiquei pensando sobre ler uns livros sobre organização e também publicar o que eu acho desses livros aqui.
+Após ficar mais a vontade, com a pratica, de escrever melhor e de forma mais clara, também gostaria de começar a praticar em escrever nos outros idiomas que estou estudando. Ingles, espanhol e os futuros. Vejamos. Quero tentar forcar em passos pequenos e bem feitos, então planos de escrever em outros idiomas ainda é secundário. 
+
+- Organização de material de estudo - leituras - consumo 
+- Analise e Revisão de materiais pedagogicos e tecnicos 
+- Refinamento e criaçao de material próprio - pratica de ser escritor  
+- 
+
+motivacoes
+objetivos
+metas
+
 
 1. Analises
 	- Livros  
